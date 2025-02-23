@@ -1,0 +1,59 @@
+body {
+background-image: url(pexels-asadphoto-1456291.jpg);
+}
+
+.all {
+color: white;
+background-color: black;
+align-items: center;
+justify-content: center;
+background-position: center;
+background: transparent;
+backdrop-filter: blur(7px);
+    border-radius: 10px;
+    padding: 40px 30px;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.tittle {
+  text-align: center;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.tittle1 {
+  font-weight: bold;
+  text-align: left;
+}
+
+.tittle2 {
+  font-weight: bold;
+  text-align: left;
+}
+
+.tittle3 {
+  font-weight: bold;
+  text-align: left;
+}
+
+.tittle4 {
+  font-weight: bold;
+  text-align: left;
+}
+
+.tittle5 {
+  font-weight: bold;
+  text-align: left;
+}
+
+.tittle6 {
+  font-weight: bold;
+  text-align: left;
+}
+
+.tittle7 {
+  font-weight: bold;
+  text-align: left;
+}
